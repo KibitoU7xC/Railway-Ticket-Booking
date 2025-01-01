@@ -1,0 +1,1 @@
+This C++ project implements a simplified railway ticket booking system. It includes classes for passengers, employees, and ticket bookings. Key features include passenger registration, ticket booking with fare calculation based on destination and coach type, ticket cancellation, and a basic issue reporting system.
